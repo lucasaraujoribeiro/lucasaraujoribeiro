@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou o Lucas
-- 👀 Estou interessado em automação de testes
-- 🌱 Atualmente estou aprendendo alguns framework de testes automatizados como o Cypress, Selenium e integração continua(CI\CID) com GitLab
+- 👀 Estou interessado em testes automatizados
+- 🌱 Atualmente estou aprendendo alguns frameworks de testes automatizados como o Cypress, Selenium e integração continua(CI\CID) com GitLab
 
 <!---
 
