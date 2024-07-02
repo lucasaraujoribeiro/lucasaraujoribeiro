@@ -1,7 +1,7 @@
 # Olá, eu sou Lucas
 - 👩‍💻 Desenvolvedor Java Web
 - 🎓 Gradução em Tecnologia da Informação
-- 📚 Cursando especialização em Desenvolvimento Web Full Stack - UFG  
+- 📚 Cursando Especialização em Desenvolvimento Web Full Stack - UFG  
 ##
 <picture>
   <source
@@ -26,11 +26,11 @@
   |--|--|--|--|--|--|--|
 
 **Banco de Dados**
-<img align="center" alt="Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">|<img align="center" alt="Sql Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
+<img align="center" alt="Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">|<img align="center" alt="Sql Server" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 |--|--|
 
 **Ferramentas**
-<img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">|<img align="center" alt="Intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">|<img align="center" alt="Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">|<img align="center" alt="Dbeaver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg">
+<img align="center" alt="Intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">|<img align="center" alt="Dbeaver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg">|<img align="center" alt="Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">|<img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 |--|--|--|--|
 
 ##
