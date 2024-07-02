@@ -1,8 +1,9 @@
-# Olá, eu sou Lucas
+# Olá, eu sou Lucas.
+
 - 👩‍💻 Desenvolvedor Java Web
-- 🎓 Gradução em Tecnologia da Informação
+- 🎓 Graduação em Tecnologia da Informação
 - 📚 Cursando Especialização em Desenvolvimento Web Full Stack - UFG
-- 🏠 Goiânia - GO 
+- 🏠 Goiânia - GO
 ##
 <picture>
   <source
