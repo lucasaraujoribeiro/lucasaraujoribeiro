@@ -1,5 +1,5 @@
 # Olá, eu sou Lucas
-- 👩‍💻 Desenvolvedor Web
+- 👩‍💻 Desenvolvedor Java Web
 - 🎓 Gradução em Tecnologia da Informação
 - 📚 Cursando especialização em Desenvolvimento Web Full Stack - UFG  
 ##
