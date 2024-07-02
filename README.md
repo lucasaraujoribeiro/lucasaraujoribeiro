@@ -1,9 +1,7 @@
-# Olá, eu sou o Lucas
-
+# Olá, eu sou Lucas
 - 👩‍💻 Desenvolvedor Web
 - 🎓 Gradução em Tecnologia da Informação
-- 📚 Cursando especialização em Desenvolvimento Web Full Stack - UFG
-  
+- 📚 Cursando especialização em Desenvolvimento Web Full Stack - UFG  
 ##
 <picture>
   <source
@@ -14,11 +12,11 @@
     srcset="https://github-readme-stats.vercel.app/api?username=lucasaraujoribeiro&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasaraujoribeiro&show_icons=true" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasaraujoribeiro&show_icons=true" />
 </picture>
 
 <a href="#">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasaraujoribeiro&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasaraujoribeiro&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
 ##
