@@ -2,7 +2,7 @@
 
 - 👩‍💻 Desenvolvedor Java Web
 - 🎓 Graduação em Tecnologia da Informação
-- 📚 Cursando Especialização em Desenvolvimento Web Full Stack - UFG
+- 📚 Pós Graduação em Desenvolvimento Web e Mobille Full Stack - UFG
 - 🏠 Goiânia - GO
 ##
 <picture>
